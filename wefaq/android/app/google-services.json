@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764891863467",
+    "project_id": "wefaq-5f47b",
+    "storage_bucket": "wefaq-5f47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764891863467:android:b34c62c5f1ca6b893f1aee",
+        "android_client_info": {
+          "package_name": "com.swe444.wefaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764891863467-m6pjiq0dqcj0ct2njlqr1464udn15uql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlM6J00BI2s_bkPhCDzu7bqj3komRoWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764891863467-m6pjiq0dqcj0ct2njlqr1464udn15uql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
